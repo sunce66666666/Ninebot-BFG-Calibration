@@ -6,7 +6,6 @@
 - 应用 ID：`com.bfgtools.calibration.imported`
 - 最低 Android：12（API 31）
 - 目标 Android：17（API 37）
-- 
 ## 目录说明
 
 - `app/`：应用代码、界面、蓝牙通信和测试。
